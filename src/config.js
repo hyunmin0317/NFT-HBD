@@ -16,7 +16,7 @@ const solanaMetadata = {
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
-      share: 100,
+      share: 92,
     },
   ],
 };
@@ -24,17 +24,21 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 91,
+    growEditionSizeTo: 3,
     layersOrder: [
+      // { name: "Background" },
       { name: "Season" },
-      { name: "Cake" },
       { name: "Candlelight" },
       { name: "Firework" },
       { name: "Arm" },
       { name: "Body" },
       { name: "Face" },
       { name: "Hat" },
+      // { name: "Special" },
       { name: "Tail" },
+      { name: "Deco" },
+      { name: "Cake" },
+      { name: "Glasses" },
     ],
   },
 ];
@@ -44,8 +48,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 4086,
+  height: 4086,
   smoothing: false,
 };
 
@@ -95,7 +99,7 @@ const preview = {
 
 const preview_gif = {
   numberOfImages: 5,
-  order: "ASC", // ASC, DESC, MIXED
+  order: "MIXED", // ASC, DESC, MIXED
   repeat: 0,
   quality: 100,
   delay: 500,

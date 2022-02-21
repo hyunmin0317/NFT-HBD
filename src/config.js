@@ -28,7 +28,6 @@ const layerConfigurations = [
     layersOrder: [
       // { name: "Background" },
       { name: "Season" },
-      { name: "Candlelight" },
       { name: "Firework" },
       { name: "Arm" },
       { name: "Body" },
@@ -39,6 +38,7 @@ const layerConfigurations = [
       { name: "Deco" },
       { name: "Cake" },
       { name: "Glasses" },
+      { name: "Candlelight" },
     ],
   },
 ];

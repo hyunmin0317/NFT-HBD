@@ -1,0 +1,55 @@
+{
+  "name": "Winter #37",
+  "description": "Happy Birth Day for Everyone",
+  "image": "ipfs://NewUriToReplace/37.png",
+  "dna": "efef14f2c7d68ca42da3ac035e8a373ab39cf7ce",
+  "edition": 37,
+  "date": 1645422435052,
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "winter"
+    },
+    {
+      "trait_type": "Firework",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "arm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "FFFFEC"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "star"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "72D6BF"
+    },
+    {
+      "trait_type": "Deco",
+      "value": "shy"
+    },
+    {
+      "trait_type": "Cake",
+      "value": "chocolate"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Candlelight",
+      "value": "red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

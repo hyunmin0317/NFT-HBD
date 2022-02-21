@@ -1,0 +1,55 @@
+{
+  "name": "Autumn #91",
+  "description": "Happy Birth Day for Everyone",
+  "image": "ipfs://NewUriToReplace/91.png",
+  "dna": "2556209d658e6dc1cb7b29ed485b4b40cd62328c",
+  "edition": 91,
+  "date": 1645420437144,
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "autumn"
+    },
+    {
+      "trait_type": "Firework",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "arm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "A7856A"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "cotton"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "F9EFAD"
+    },
+    {
+      "trait_type": "Deco",
+      "value": "none"
+    },
+    {
+      "trait_type": "Cake",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Candlelight",
+      "value": "red"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

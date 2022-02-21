@@ -1,0 +1,55 @@
+{
+  "name": "Summer #55",
+  "description": "Happy Birth Day for Everyone",
+  "image": "ipfs://NewUriToReplace/55.png",
+  "dna": "ca625c97ceb2b37772c7e19021133a3ee85ba74c",
+  "edition": 55,
+  "date": 1645419808274,
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "summer"
+    },
+    {
+      "trait_type": "Firework",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "arm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "A7856A"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "summer"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "F9EFAD"
+    },
+    {
+      "trait_type": "Deco",
+      "value": "none"
+    },
+    {
+      "trait_type": "Cake",
+      "value": "chocolate"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Candlelight",
+      "value": "blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

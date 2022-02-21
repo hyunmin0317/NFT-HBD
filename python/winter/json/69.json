@@ -1,0 +1,55 @@
+{
+  "name": "Winter #69",
+  "description": "Happy Birth Day for Everyone",
+  "image": "ipfs://NewUriToReplace/69.png",
+  "dna": "e8f730ce2391fdc190f4264ca4b18799305d8434",
+  "edition": 69,
+  "date": 1645422455057,
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "winter"
+    },
+    {
+      "trait_type": "Firework",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "arm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "FFDFCD"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "cotton"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "9E9FF6"
+    },
+    {
+      "trait_type": "Deco",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "Cake",
+      "value": "chocolate"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "Candlelight",
+      "value": "blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

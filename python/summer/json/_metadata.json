@@ -1,0 +1,5062 @@
+[
+  {
+    "name": "Summer #1",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "81d5369ae394d2eb06cd2e23a9b9873d122ead40",
+    "edition": 1,
+    "date": 1645419722740,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "D9CEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #2",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "9819aa78372c9f16c9d043657bbd44d6a122f0ca",
+    "edition": 2,
+    "date": 1645419723433,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #3",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "2fc91d6e908b283b6a589b91d2ef3cd78385e226",
+    "edition": 3,
+    "date": 1645419724283,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #4",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "1f2548e3ad8f5006e2018747155c389742744b3a",
+    "edition": 4,
+    "date": 1645419725002,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #5",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "e8cb84e0c8073e4fa00138d2ae756be5796e3189",
+    "edition": 5,
+    "date": 1645419725778,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #6",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "73a6c73fbe91eb6311b4898dd528916351900fd3",
+    "edition": 6,
+    "date": 1645419726448,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #7",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "92dbb76f646500f4d2a55db7171b1f4bca57a2bd",
+    "edition": 7,
+    "date": 1645419727087,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #8",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "da1d62300ae63e300336399dff5141b21a5be164",
+    "edition": 8,
+    "date": 1645419727752,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #9",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "13db3043a33f4bcc0a3128f27c78bac4b4613709",
+    "edition": 9,
+    "date": 1645419728460,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #10",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "0915101f40ad930b0c4ee82c0f1479624d22a330",
+    "edition": 10,
+    "date": 1645419729126,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #11",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "568e70ca3a1b058e4453f045042ecfad2dd3ad18",
+    "edition": 11,
+    "date": 1645419729723,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #12",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "b3dd481c25d204206914a3ad3791fb64af320427",
+    "edition": 12,
+    "date": 1645419730349,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "D9CEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #13",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "3f6daba8ecd3cd5a1a47d5af9bc88cb73abc7877",
+    "edition": 13,
+    "date": 1645419730922,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #14",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "50c207e94e06739de948ead8df00d119e9eb4f7e",
+    "edition": 14,
+    "date": 1645419732152,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #15",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "b0bec8a63adbda298f9198fbbb2e014b175882f5",
+    "edition": 15,
+    "date": 1645419733942,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #16",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "0d0daf670a7597881f8a31fc35cbdb398eef6da6",
+    "edition": 16,
+    "date": 1645419735700,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #17",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "4432dc1a4047a7c868135a09fa3b85567e047be7",
+    "edition": 17,
+    "date": 1645419737335,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #18",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "e80086323f9d5868f38b3b947ba0af158dd81dac",
+    "edition": 18,
+    "date": 1645419739143,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #19",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "0ad60c3a80ecc8ef7b1db3ffabe240cd6d1a03d6",
+    "edition": 19,
+    "date": 1645419740993,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #20",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "ae7cdb196f539ca519307d5614156bd6ebaf2aee",
+    "edition": 20,
+    "date": 1645419742823,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #21",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "3949f0818b16234d48d7256b01bfad7c12805fd4",
+    "edition": 21,
+    "date": 1645419744790,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #22",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "51ab70d717df207e8ec4c0ac9c26dfad49739e7f",
+    "edition": 22,
+    "date": 1645419746611,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #23",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "8e92342fbd6c5acae23eb90bb00ee03e2ce1eb66",
+    "edition": 23,
+    "date": 1645419748464,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #24",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "322e6cf47a7bed5b7c8fbe791e73218b2f7d59ca",
+    "edition": 24,
+    "date": 1645419750256,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #25",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "e881f9aa49da3f78817de2c62fcfd41d78aa9d93",
+    "edition": 25,
+    "date": 1645419752139,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "D9CEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #26",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "7cacbcd22776298c9f1f9219d382f29396f3f483",
+    "edition": 26,
+    "date": 1645419753946,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BEEDD6"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #27",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "ce30388421729a7d9c35fd16d0218afaf6d9a5bd",
+    "edition": 27,
+    "date": 1645419755820,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #28",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "719d82f47a02b8ca24e8ded8833957346fc62f17",
+    "edition": 28,
+    "date": 1645419757639,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #29",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "70823d1ad7f84598a64b8a0762fd952327f502fe",
+    "edition": 29,
+    "date": 1645419759439,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "BEEDD6"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #30",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "f6c493f72919639fcc1665fdc1e04718de489e2b",
+    "edition": 30,
+    "date": 1645419761393,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #31",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "3b7b5c11754c435a935d7781d39083065785e763",
+    "edition": 31,
+    "date": 1645419763260,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #32",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "46480a448859083dac6d5d9294984ae4bdc4aaff",
+    "edition": 32,
+    "date": 1645419765286,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #33",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "e89639a28f08e2d6b66fb8dea09e8eb40c5c3892",
+    "edition": 33,
+    "date": 1645419767093,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #34",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "115d9fde31eec96da13a7ffd9dbcaac40855cfa5",
+    "edition": 34,
+    "date": 1645419769045,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #35",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "809a2730eaa9ed9c2435cc3aaa5a7476ae308911",
+    "edition": 35,
+    "date": 1645419770823,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #36",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "5372c8f0c242a2661654808090fb14fbb061be65",
+    "edition": 36,
+    "date": 1645419772667,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #37",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "971553773d214d77848184da38c59857c4e22f91",
+    "edition": 37,
+    "date": 1645419774558,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #38",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "ed137517e99135b16916de148351a2871ec69a88",
+    "edition": 38,
+    "date": 1645419776387,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #39",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "34b5c2168502e737b23f654d998fe38d7cc0fe8c",
+    "edition": 39,
+    "date": 1645419778182,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #40",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "3e1b72dfbf2bf2a9849eee192b9659264ff927bb",
+    "edition": 40,
+    "date": 1645419780002,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #41",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "730d4e9a00cc3fea26d09bb0f0df3e4d71cc6c93",
+    "edition": 41,
+    "date": 1645419781978,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #42",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "9a539e31282886892e53466dec9ffa8108c17500",
+    "edition": 42,
+    "date": 1645419783840,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #43",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "4843916d858a88ccaeffce80887f6d626dc2c323",
+    "edition": 43,
+    "date": 1645419785715,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #44",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "47e6d133c56d86b0511e214f6206d532a8c7460f",
+    "edition": 44,
+    "date": 1645419787578,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #45",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "d6bf8bf3bac01180eee92b216cecd138a96ce33f",
+    "edition": 45,
+    "date": 1645419789374,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #46",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "42309f2dce4059c681ea9c3de749eba8c5487d6c",
+    "edition": 46,
+    "date": 1645419791287,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #47",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "0d02b1e052b25d7b20ab789346e3daee65c0e97c",
+    "edition": 47,
+    "date": 1645419793301,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #48",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "ea3e9fe783bdd6c8b89328c5ac6331a0aeb01aa8",
+    "edition": 48,
+    "date": 1645419795113,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #49",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "c497b0794ec6335ab51a91d80b7fd6493ae9c838",
+    "edition": 49,
+    "date": 1645419797002,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #50",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "832c3421d4cf85f907004a6478f083aefcc066bc",
+    "edition": 50,
+    "date": 1645419798958,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #51",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "1a319bd5558be5b38f8c18976000614af3711d12",
+    "edition": 51,
+    "date": 1645419800791,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #52",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "1997d796dc2af55a2a5692722b75423c1222dbbb",
+    "edition": 52,
+    "date": 1645419802717,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #53",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "39029063e409b9ab1c898c93383903d8c8ca5986",
+    "edition": 53,
+    "date": 1645419804607,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #54",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "c9f6da546eb975b3375fc67e488efd34bb60ceab",
+    "edition": 54,
+    "date": 1645419806462,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #55",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "ca625c97ceb2b37772c7e19021133a3ee85ba74c",
+    "edition": 55,
+    "date": 1645419808274,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #56",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "6ff0a4962486ef5bb3d0a85a0e8afaf989e11818",
+    "edition": 56,
+    "date": 1645419810135,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #57",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "c1d7559e967779cae24cbae92f725a0cfd9a033c",
+    "edition": 57,
+    "date": 1645419812117,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #58",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "8c7a3a9ec2d7e07e4817fb0e67afb31e82afe5eb",
+    "edition": 58,
+    "date": 1645419813979,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #59",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "48bcf46f4fdf5f7d560336fbf3137f0f9e22b5f8",
+    "edition": 59,
+    "date": 1645419815847,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #60",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "c6c978d25f7e4af61f47e9039bafe4f2e7e40dc0",
+    "edition": 60,
+    "date": 1645419817756,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #61",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "e9fb7d534081f17621b4d2884b29fa6dbff58eff",
+    "edition": 61,
+    "date": 1645419818579,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #62",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "c058320ac6c791d3206241e1b2b68e760acd51fa",
+    "edition": 62,
+    "date": 1645419820040,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #63",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "38c8982f42e8f6a0b8ceb78a7a9fe8effc0b4e57",
+    "edition": 63,
+    "date": 1645419821926,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "freckle"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #64",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "bf9ec778879bef1d7dc2af176e4dee2c21b9b18e",
+    "edition": 64,
+    "date": 1645419823820,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #65",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "03b5253f33f23d4844776590516ff978c5526092",
+    "edition": 65,
+    "date": 1645419825844,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #66",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "789b6e1be6a5f136c60410a972a4e34e7a19d4a2",
+    "edition": 66,
+    "date": 1645419827712,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #67",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "45eb556f828ef68816f403681ef15b15af2297bd",
+    "edition": 67,
+    "date": 1645419829551,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "9E9FF6"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #68",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "5f7827cf78f3e6327818ed8d7a9df8de12e50c65",
+    "edition": 68,
+    "date": 1645419831351,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #69",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "b7801fa35b08cf1b30ad6c13cf186888ebe34822",
+    "edition": 69,
+    "date": 1645419833204,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #70",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "0863ccea01c18b339dec85a11f4f1ce191f8704e",
+    "edition": 70,
+    "date": 1645419834998,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #71",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "ded2a301d7559cf50f8aafa2af87ddcdae4bde59",
+    "edition": 71,
+    "date": 1645419836829,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #72",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "f854bbbc8b43ea896853da4139451e6322895c40",
+    "edition": 72,
+    "date": 1645419838645,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #73",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "1d706e7698cd9c6282f126441bb7e39ba620745b",
+    "edition": 73,
+    "date": 1645419840463,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #74",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "7dad22916b8c3ad05286620d88e976b486905393",
+    "edition": 74,
+    "date": 1645419842272,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "tongue"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #75",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "4259b526dd9bdf2a9fd206cf6377061301414a60",
+    "edition": 75,
+    "date": 1645419844129,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #76",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "be228694e48343cdca4950a90e7d7270401c27c9",
+    "edition": 76,
+    "date": 1645419845967,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #77",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "3a6ccb68afc7c3d0ffac17d8845a17e5d244242a",
+    "edition": 77,
+    "date": 1645419847752,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #78",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "a95c61f9f9d4708287468f34df7805a53b51e942",
+    "edition": 78,
+    "date": 1645419849496,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #79",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "1663035bf23ef07f0f4b0ba96d847b643f4d0786",
+    "edition": 79,
+    "date": 1645419851316,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "CEF9AD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #80",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "e61d090ec8e66ed4fc2d1a3dee1c28fd7249b7f4",
+    "edition": 80,
+    "date": 1645419853221,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #81",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "238f69b18ec832c78bfd082e2c21f5d2f0b591e7",
+    "edition": 81,
+    "date": 1645419855064,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #82",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "91de4bb8abdf8d3ffadbfe850c4271c582631de9",
+    "edition": 82,
+    "date": 1645419856696,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #83",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "731409206f96e06081321c45b50db7cdddeaccb8",
+    "edition": 83,
+    "date": 1645419857260,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shame"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #84",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "690b738588b0aff67bcb5cf956349fc80c95fcb7",
+    "edition": 84,
+    "date": 1645419857863,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #85",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "826d6581ecb45ab1a72034c767edb611e55cfb4a",
+    "edition": 85,
+    "date": 1645419858488,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFDFCD"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "star"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "FCFFFE"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #86",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "3365022ebb28d2b096d7dd93a42fd92601016f3f",
+    "edition": 86,
+    "date": 1645419859114,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "light"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "shy"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #87",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "af0af74ad34f133e48c596036429f1114928294a",
+    "edition": 87,
+    "date": 1645419859672,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "F7DEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "fur"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #88",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "cfb63b118373e7b286915620b997f7ea21233690",
+    "edition": 88,
+    "date": 1645419860251,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "D9CEFF"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #89",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "217cfec7228f7c3a9fec219e0591238b95464bb5",
+    "edition": 89,
+    "date": 1645419860870,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "72D6BF"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #90",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "df32922030bbc00cb0bb59c25cfef23ea311692a",
+    "edition": 90,
+    "date": 1645419861424,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FEEEDC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "C7A3F4"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #91",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "5ac9e31bb90b4756f8cb9c5b763b222eb297a340",
+    "edition": 91,
+    "date": 1645419862010,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "FFFFEC"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "cotton"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "none"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Summer #92",
+    "description": "Happy Birth Day for Everyone",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "bf2a9cf69cbb5f781f7b9a257de214d348647550",
+    "edition": 92,
+    "date": 1645419862670,
+    "attributes": [
+      {
+        "trait_type": "Season",
+        "value": "summer"
+      },
+      {
+        "trait_type": "Firework",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Arm",
+        "value": "arm"
+      },
+      {
+        "trait_type": "Body",
+        "value": "A7856A"
+      },
+      {
+        "trait_type": "Face",
+        "value": "face"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "ribbon"
+      },
+      {
+        "trait_type": "Tail",
+        "value": "F9EFAD"
+      },
+      {
+        "trait_type": "Deco",
+        "value": "teeth"
+      },
+      {
+        "trait_type": "Cake",
+        "value": "chocolate"
+      },
+      {
+        "trait_type": "Glasses",
+        "value": "none"
+      },
+      {
+        "trait_type": "Candlelight",
+        "value": "red"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

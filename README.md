@@ -1,8 +1,14 @@
 # NFT HBD
 
-### NFT HBD Collection (2021.01.29 ~ )
+### NFT HBD Collection (2021.01.29 ~ 2021.02.21)
 
 ---
+
+## :globe_with_meridians: OpenSea
+
+* ### [HBD Collection](https://opensea.io/collection/happy-birthday-kokal)
+
+  <br>
 
 ## :computer: 팀원 
 

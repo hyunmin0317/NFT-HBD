@@ -1,0 +1,55 @@
+{
+  "name": "Spring #51",
+  "description": "Happy Birth Day for Everyone",
+  "image": "ipfs://NewUriToReplace/51.png",
+  "dna": "ea2211440b1edffc2afba45d5ed8088f57facd26",
+  "edition": 51,
+  "date": 1645418445251,
+  "attributes": [
+    {
+      "trait_type": "Season",
+      "value": "spring"
+    },
+    {
+      "trait_type": "Firework",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Arm",
+      "value": "arm"
+    },
+    {
+      "trait_type": "Body",
+      "value": "FFFFEC"
+    },
+    {
+      "trait_type": "Face",
+      "value": "face"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "fur"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "72D6BF"
+    },
+    {
+      "trait_type": "Deco",
+      "value": "shy"
+    },
+    {
+      "trait_type": "Cake",
+      "value": "cream"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "Candlelight",
+      "value": "blue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
